@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gPahy9yO124JoNsgVtY323JKfl0t5btK
 """
 
-!pip install diffusers transformers accelerate safetensors huggingface_hub
 
 import torch
 from diffusers import StableDiffusionPipeline
